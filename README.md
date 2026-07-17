@@ -1,7 +1,7 @@
 # 🚤 02 × Heavy Duty Speed Boats (HDSB)
 
 <p align="center">
-  <img src="./hdsb.jpg" alt="Heavy Duty Speed Boat" width="100%">
+  <img src="./ppahdsb.jpg" alt="Heavy Duty Speed Boat" width="100%">
 </p>
 
 <h2 align="center">02 × Heavy Duty Speed Boats (HDSB)</h2>
