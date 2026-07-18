@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Payra Port Authority (PPA)</b><br>
-Naval Architect | Design Review | Design Management | Class Compliance
+Naval Architect | Engineering Review | Class Compliance
 </p>
 
 <p align="center">
@@ -21,12 +21,16 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered **02 × Heavy Duty Speed Boats (HDSB)** for the **Payra Port Authority (PPA)** in **2019**. Designed as multi-purpose patrol and response vessels, the boats support coastal and harbor security, search and rescue, anti-piracy, anti-smuggling, anti-drug trafficking, and emergency response operations. My responsibilities included design review, engineering management, class compliance, technical coordination, construction support, and successful delivery of both vessels.
+Successfully contributed to the delivery of **02 Heavy Duty Speed Boats (HDSB)** for the **Payra Port Authority (PPA)** in **2019**. The vessels were developed to support **harbour security, coastal patrol, search and rescue (SAR), anti-piracy, anti-smuggling, and emergency response operations**.
+
+My primary responsibilities included **engineering review, design verification, and classification compliance**, ensuring the vessel design satisfied contractual requirements, operational objectives, and applicable classification standards throughout the engineering and construction phases.
 
 | **Client** | Payra Port Authority (PPA) |
 |:-----------|:---------------------------|
-| **Project** | 02 × Heavy Duty Speed Boats |
+| **Vessel Type** | Heavy Duty Speed Boat |
+| **Quantity** | 02 Boats |
 | **Role** | Naval Architect |
+| **Scope** | Engineering Review • Design Verification • Class Compliance • Construction Support |
 | **Delivery** | **2019** |
 
 ---
@@ -44,37 +48,39 @@ Successfully delivered **02 × Heavy Duty Speed Boats (HDSB)** for the **Payra P
 
 ## ⚓ Operational Capabilities
 
-- Coastal patrol and harbor security operations.
-- Anti-piracy, anti-smuggling, and anti-drug trafficking surveillance.
-- Search and Rescue (SAR) operations in inland and coastal waters.
-- Rescue of persons overboard.
-- Assistance to vessels during emergency and damage control situations.
-- Continuous **24-hour operational capability** for maritime security missions.
+- Coastal Patrol
+- Harbour Security
+- Search and Rescue (SAR)
+- Anti-Piracy Operations
+- Anti-Smuggling Operations
+- Anti-Drug Trafficking
+- Emergency Response
+- 24-Hour Maritime Operations
 
 ---
 
 ## 👨‍💼 Engineering Contributions
 
-- Reviewed vessel design against contractual specifications, operational requirements, and applicable regulations.
-- Managed engineering deliverables and coordinated multidisciplinary design activities throughout the project lifecycle.
-- Verified compliance with classification society rules, statutory regulations, and client technical specifications.
-- Reviewed hull structural, machinery arrangement, outfitting, and production drawings for technical accuracy and constructability.
-- Coordinated technical discussions between the client, design consultants, production departments, equipment suppliers, and class surveyors.
-- Managed engineering changes and resolved technical issues arising during construction.
-- Supported inspections, harbor acceptance tests, sea trials, commissioning, and final delivery.
-- Ensured engineering quality, configuration control, technical compliance, and on-time completion of both vessels.
+- Performed comprehensive **engineering review** against contractual specifications, operational requirements, and client technical standards.
+- Verified compliance with applicable **classification society rules**, statutory regulations, and Payra Port Authority requirements.
+- Reviewed hull structure, machinery arrangements, outfitting layouts, and production documentation to ensure technical accuracy and constructability.
+- Evaluated engineering revisions and provided technical recommendations to improve design quality and production readiness.
+- Coordinated technical discussions with designers, production teams, client representatives, equipment suppliers, and classification surveyors.
+- Supported construction by resolving engineering issues and reviewing approved design modifications.
+- Participated in inspections, harbour acceptance tests (HAT), sea trials (SAT), commissioning, and successful delivery of both vessels.
+- Ensured compliance with contractual requirements, quality standards, and project schedules throughout construction.
 
 ---
 
 ## ⭐ Technical Expertise Demonstrated
 
-**Ship Design Review • Design Management • Engineering Coordination • Structural Engineering • Production Engineering • Technical Documentation • Contract Compliance • Class Compliance • Construction Support • Technical Problem Solving • Quality Assurance • Sea Trials & Commissioning**
+**Engineering Review • Design Verification • Classification Compliance • Technical Documentation • Construction Support • Engineering Coordination • Quality Assurance • Harbour Acceptance Tests (HAT) • Sea Trials (SAT) • Commissioning**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • AutoCAD • Maxsurf • Rhino3D • ANSYS**
+**Maxsurf • AutoCAD • AVEVA Marine • Rhino3D • ANSYS**
 
 ---
 
@@ -82,7 +88,7 @@ Successfully delivered **02 × Heavy Duty Speed Boats (HDSB)** for the **Payra P
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Project Management | Classification Compliance**
+**Senior Naval Architect & Marine Engineer**
 
 📧 **ariful.buet1985@gmail.com**
 
@@ -91,5 +97,5 @@ Successfully delivered **02 × Heavy Duty Speed Boats (HDSB)** for the **Payra P
 ---
 
 <p align="center">
-<b>Delivering High-Performance, Mission-Ready, and Class-Compliant Maritime Security Vessels.</b>
+<b>Delivering Safe, Class-Compliant, and Production-Ready Marine Engineering Solutions.</b>
 </p>
